@@ -2,7 +2,7 @@
 Welcome to the **Guess the Number** game! This is a simple number-guessing game where the player has to guess a randomly generated number within a specified range. It's a fun, interactive game built with HTML, CSS, and JavaScript.
 
 ## 🎮 Demo
-You can try the live demo [here]() .
+You can try the live demo [here](https://prathamkarki.github.io/Guess-the-number/) .
 
 ## 🕹️ How to Play
 1. The computer picks a random number between 1 and 100.
