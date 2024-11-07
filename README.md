@@ -5,7 +5,7 @@ Welcome to the **Guess the Number** game! This is a simple number-guessing game 
 You can try the live demo [here](https://prathamkarki.github.io/Guess-the-number/) .
 
 ## 🕹️ How to Play
-1. The computer picks a random number between 1 and 100.
+1. The computer picks a random number between 1 and 25.
 2. You enter a guess and click the "Guess" button.
 3. The game will tell you if your guess is too high, too low, or correct.
 4. Keep guessing until you find the correct number!
